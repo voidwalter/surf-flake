@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Surf
+Exec=surf --ozone-platform-hint=auto %U
+Terminal=false
+Type=Application
+Icon=deta-surf
+StartupWMClass=Surf
+Comment=Personal AI Notebooks. Organize files & webpages and generate notes from them.
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
+Categories=Education,;WebBrowser;
